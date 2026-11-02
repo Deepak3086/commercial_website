@@ -423,11 +423,10 @@ ul { list-style: none; }
 
 ![Website output](images/home.png)
 ![Website output](images/products.png)
-![Website output](images/about.png.png)
+![Website output](images/about.png)
 ![Website output](images/contact.png)
 ![Website output](images/account.png)
 
-Live site: https://deepak3086.github.io/commercial-website/
 
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
